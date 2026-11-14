@@ -1,0 +1,10 @@
+{
+  "servers": [
+    { "name": "السيرفر الأول", "url": "enc:IHQqPUbrashhyyAGZA3HemE0qOwR95Ym1RoF70Wy/k+OKD4LOE7OnAz9OJjoajo=" }
+  ],
+  "support": "07700000000",
+  "telegram": "",
+  "message": "هذا تطبيق تجربة",
+  "license": { "status": "active", "message": "" },
+  "latest": { "versionCode": 1, "versionName": "1.0.0", "minVersionCode": 0, "apk": "" }
+}
