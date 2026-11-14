@@ -1,8 +1,28 @@
 {
   "servers": [
     {
-      "name": "السيرفر الأول",
-      "url": "enc:IHQqPUbrashhyyAGZA3HemE0qOwR95Ym1RoF70Wy/k+OKD4LOE7OnAz9OJjoajo="
+      "name": "AM",
+      "url": "enc:iN6K0AdzINbHbWNTRqlfTjqrp0gmElKPr7J9d4ngxNFEYtXG6rN3XGuJO7IKp3Y="
+    },
+    {
+      "name": "DANA",
+      "url": "enc:upPnDVZUwhoUVLmPqtArCx0W8Sc+rEYRWtviIQF20mUjjbgtQdahvbAU3XpXJByPxgbgJ4CL"
+    },
+    {
+      "name": "FAMILY",
+      "url": "enc:1ZIOKBEODrbAJffc8ElyoeHWtW3RJEcxO/mkB291F6GmPDnDPtUrkfpL3MIn4C6ZnjAtSwsc4bA="
+    },
+    {
+      "name": "MAX",
+      "url": "enc:8zCmCcXoCSJ9bn64j6+X1k7i3AfzFOjrQUjPGjgLqwhcwqCtbcPro54NA2AWaIf/AbuWVRy4wL7K7z6n"
+    },
+    {
+      "name": "STRONG",
+      "url": "enc:5kWPqX3StoAMSoEFPrSmxEaeLgRDi9w7bpE2gt4pUTaM3f4kLwqUz/wHh4ILZu/THB/Mc0EY8VdEvEmAb7nbtBTWP/dY"
+    },
+    {
+      "name": "BEST",
+      "url": "enc:4s1bm1zWRWhirXot+EEC/4PwKsXhzabZj6gLslPVHAisV+xoe4PKdqh7w6+ZNUsPhT1rdohjbw=="
     }
   ],
   "support": "07700000000",
