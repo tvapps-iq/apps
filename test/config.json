@@ -9,8 +9,8 @@
   "telegram": "",
   "message": "هذا تطبيق تجربة",
   "license": {
-    "status": "stopped",
-    "message": "التطبيق موقوف مؤقتاً. راجع الوكيل حتى يرجع يشتغل."
+    "status": "active",
+    "message": ""
   },
   "latest": {
     "versionCode": 1,
